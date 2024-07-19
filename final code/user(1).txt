@@ -1,0 +1,33 @@
+3 	// number of cargoPlanes
+2 	// number of commitees
+5 	// range of wheatContainers1 from 
+7 	// range of wheatContainers2 to
+2 	// range of dropTime1 from
+5 	// range of dropTime2 to
+14 	// range of refillPeriod1 from 
+20 	// range of refillPeriod2 to 
+0.07 	// probability of planes to collide
+300 	// distance from the ground 
+4 	// collecting relief committees 
+5 	// relief Workers of collecting commitee
+20	// Splitting relief committees <--
+7	// relief Workers of Splitting commitee
+7	// Distributing relief committees <--
+4 	// relief Workers of Distributing commitee <--
+5 	// distribution relief worker can handle a user-defined number of bags per distribution trip
+70 	// initial energy for each worker
+1 	// range of energy to be subtracted from
+4	// range of energy to be subtracted to
+2 	// containersShotDown
+7 	// time to sleep in shared memory 1
+4 	// time to sleep in shared memory 2
+10 	// threshold time for the game to end up
+3	// max number of planes to be crashed
+15 	// max number of wheat flour to bw shoot 
+8	// max number of collecting relief committee workers who have been martyred
+19	// max number of distributing relief committee workers who have been martyred
+5	// The number of families who passed away due to starvation 
+20	// container weight
+300	//max distance plane fly at
+5	//number of families in the simulation
+40	//max starvation level before family dies
